@@ -1,10 +1,11 @@
 # FERTILIZER-RECOMMENDATION-SYSTEM (Under development)
 Basic version is available as streamlit application.
+
 Developed an AI-powered web application that helps farmers identify suitable fertilizers based on soil nutrients, crop type, growth stage and environmental conditions.
 
 Key Features:
 
-- Machine learning-based fertilizer prediction using XGBoost.
+- Machine learning-based fertilizer prediction using Random Forest.
 - Soil nutrient analysis (NPK values and pH).
 - Weather information integration using OpenWeatherMap API.
 - Interactive and responsive dashboard.
