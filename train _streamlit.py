@@ -52,7 +52,7 @@ if st.button("Predict"):
 
     if prediction == prediction:
 
-        st.success(f"Prediction: {prediction} (confidence: {probability:.0%})")
+        st.success(f"Prediction: {prediction}")
     else:
 
-        st.error(f"Prediction: {prediction} (confidence: {1 - probability:.0%})")
+        st.error(f"Prediction: {prediction}")
