@@ -1,4 +1,5 @@
-# FERTILIZER-RECOMMENDATION-SYSTEM
+# FERTILIZER-RECOMMENDATION-SYSTEM (Under development)
+Basic version is available as streamlit application.
 Developed an AI-powered web application that helps farmers identify suitable fertilizers based on soil nutrients, crop type, growth stage and environmental conditions.
 
 Key Features:
