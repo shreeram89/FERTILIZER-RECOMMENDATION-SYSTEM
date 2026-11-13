@@ -1,5 +1,7 @@
 # FERTILIZER-RECOMMENDATION-SYSTEM (Under development)
 Basic version is available as streamlit application.
+Only Machine Learning Model building is done.
+The project related Web application UI or deployment is under development. 
 
 Developed an AI-powered web application that helps farmers identify suitable fertilizers based on soil nutrients, crop type, growth stage and environmental conditions.
 
